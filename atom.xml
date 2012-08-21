@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[bertg.be]]></title>
+  <title><![CDATA[Bertg.be]]></title>
   <link href="http://bertg.be/atom.xml" rel="self"/>
   <link href="http://bertg.be/"/>
-  <updated>2012-08-21T18:48:24+02:00</updated>
+  <updated>2012-08-21T20:48:55+02:00</updated>
   <id>http://bertg.be/</id>
   <author>
     <name><![CDATA[Bert Goethals]]></name>
